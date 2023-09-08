@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/exporer", "destination": "/application.ts" },
+    { "source": "/ping", "destination": "/ping.controller.ts" }
+  ]
+}
